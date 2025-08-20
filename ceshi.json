@@ -1,0 +1,3584 @@
+[
+  {
+    "channels": [
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "101",
+        "channelNum": 1,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-1綜合",
+        "id": "cctv1",
+        "name": "CCTV-1综合",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.77:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "102",
+        "channelNum": 2,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-2財經",
+        "id": "cctv2",
+        "name": "CCTV-2财经",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.232:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "103",
+        "channelNum": 3,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-3綜藝",
+        "id": "cctv3",
+        "name": "CCTV-3综艺",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.191:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "104",
+        "channelNum": 4,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-4中文國際",
+        "id": "cctv4",
+        "name": "CCTV-4中文国际",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.111:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "105",
+        "channelNum": 5,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-5體育",
+        "id": "cctv5",
+        "name": "CCTV-5体育",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.192:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "106",
+        "channelNum": 6,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-6電影",
+        "id": "cctv6",
+        "name": "CCTV-6电影",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000361/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.193:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "107",
+        "channelNum": 7,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-7軍事農業",
+        "id": "cctv7",
+        "name": "CCTV-7军事农业",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.233:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "108",
+        "channelNum": 8,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-8電視劇",
+        "id": "cctv8",
+        "name": "CCTV-8电视剧",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000362/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.194:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "109",
+        "channelNum": 9,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-9記錄",
+        "id": "cctv9",
+        "name": "CCTV-9记录",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.79:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "110",
+        "channelNum": 10,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-10科教",
+        "id": "cctv10",
+        "name": "CCTV-10科教",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8"
+          }
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.234:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "111",
+        "channelNum": 11,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-11戲曲",
+        "id": "cctv11",
+        "name": "CCTV-11戏曲",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.169:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "112",
+        "channelNum": 12,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-12 society and law",
+        "id": "cctv12",
+        "name": "CCTV-12社会与法",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.235:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "113",
+        "channelNum": 13,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-13新聞",
+        "id": "cctvnew",
+        "name": "CCTV-13新闻",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.175:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "114",
+        "channelNum": 14,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-14少兒",
+        "id": "cctvshaoer",
+        "name": "CCTV-14少儿",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.236:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "115",
+        "channelNum": 15,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-15音樂",
+        "id": "cctvmusic",
+        "name": "CCTV-15音乐",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+             "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.170:8000"
+          }
+        ]
+      }, 
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "116",
+        "channelNum": 16,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-16奥林匹克",
+        "id": "cctv16",
+        "name": "CCTV-16奥林匹克",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url":"http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/1.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url":"http://111.43.126.240:9003/hls/29/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url":"https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8?"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "117",
+        "channelNum": 17,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-17农业农村",
+        "id": "cctv17",
+        "name": "CCTV-17农业农村",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0, 
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.168:8000"
+          }
+        ]
+      },     
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "118",
+        "channelNum": 18,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CCTV-5+體育賽事",
+        "id": "cctv5jiaHD",
+        "name": "CCTV-5+体育赛事",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8" 
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8" 
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.80:8000"
+          }
+        ]
+      }
+    ],
+    "chineseName": "中央频道",
+    "deviceCapacity": 0,
+    "englishName": "中央頻道",
+    "id": 1318,
+    "identifier": "CCTV"
+  },
+  {
+    "channels": [
+      {
+        "adImg": "",
+        "adImgHeight": "300",
+        "adImgWidth": "-1",
+        "channelArea": "110000",
+        "channelId": "201",
+        "channelNum": 19,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "北京衛視",
+        "id": "bjws",
+        "name": "北京卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.85:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "310000",
+        "channelId": "202",
+        "channelNum": 20,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "東方衛視",
+        "id": "dongfang",
+        "name": "东方卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+             "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.86:8000"
+          }
+        ]
+      },    
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "120000",
+        "channelId": "203",
+        "channelNum": 21,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "衛視",
+        "id": "tianjin",
+        "name": "天津卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "https://cqcb.iptv.darwinchow.com/tianjinHD"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8?"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "500000",
+        "channelId": "204",
+        "channelNum": 22,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "重慶衛視",
+        "id": "chongqing",
+        "name": "重庆卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000341/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.38:8000"
+          }
+        ]
+      },  
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "230000",
+        "channelId": "205",
+        "channelNum": 23,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "黑龍江衛視",
+        "id": "heilongjiang",
+        "name": "黑龙江卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.93:8000"
+          }
+        ]
+      },     
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "220000",
+        "channelId": "206",
+        "channelNum": 24,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "吉林衛視",
+        "id": "jilin",
+        "name": "吉林卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000363/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.173:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "210000",
+        "channelId": "207",
+        "channelNum": 25,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "遼寧衛視",
+        "id": "liaoning",
+        "name": "辽宁卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.92:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "150000",
+        "channelId": "208",
+        "channelNum": 26,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "內蒙古衛視",
+        "id": "neimenggu",
+        "name": "内蒙古卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000040/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000040/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.58:8000"
+          }
+        ]
+      },  
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "640000",
+        "channelId": "209",
+        "channelNum": 27,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "寧夏衛視",
+        "id": "ningxia",
+        "name": "宁夏卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000043/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000043/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.92:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "620000",
+        "channelId": "210",
+        "channelNum": 28,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "甘肅衛視",
+        "id": "gansu",
+        "name": "甘肃卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000349/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.74:8000"
+          }
+        ]
+      },         
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "630000",
+        "channelId": "211",
+        "channelNum": 29,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "青海衛視",
+        "id": "qinghai",
+        "name": "青海卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000366/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000366/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.195:8000"
+          }
+        ]
+      },    
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "610000",
+        "channelId": "212",
+        "channelNum": 30,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "陝西衛視",
+        "id": "shaanxi",
+        "name": "陕西卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000029/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000029/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.49:8000"
+          }
+        ]
+      },          
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "140000",
+        "channelId": "213",
+        "channelNum": 31,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "山西衛視",
+        "id": "shanxi",
+        "name": "山西卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000032/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000032/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.48:8000"
+          }
+        ]
+      },              
+      {
+        "adImg": "",
+        "adImgHeight": "370",
+        "adImgWidth": "-1",
+        "channelArea": "370000",
+        "channelId": "301",
+        "channelNum": 32,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "山東衛視",
+        "id": "shandong",
+        "name": "山东卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.78:8000"
+          }
+        ]
+      },                  
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "340000",
+        "channelId": "215",
+        "channelNum": 33,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "安徽衛視",
+        "id": "anhui",
+        "name": "安徽卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.87:8000"
+          }
+        ]
+      },                     
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "130000",
+        "channelId": "216",
+        "channelNum": 34,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "河北衛視",
+        "id": "hebei",
+        "name": "河北卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.112:8000"
+          } 
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "410000",
+        "channelId": "217",
+        "channelNum": 35,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "河南衛視",
+        "id": "henan",
+        "name": "河南卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000358/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000358/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.190:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "420000",
+        "channelId": "218",
+        "channelNum": 36,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "湖北衛視",
+        "id": "hubei",
+        "name": "湖北卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.88:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "430000",
+        "channelId": "219",
+        "channelNum": 37,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "湖南衛視",
+        "id": "hunan",
+        "name": "湖南卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8"
+          },        
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.82:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "360000",
+        "channelId": "220",
+        "channelNum": 38,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "江西衛視",
+        "id": "jiangxi",
+        "name": "江西卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000335/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.47:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "330",
+        "adImgWidth": "-1",
+        "channelArea": "320000",
+        "channelId": "221",
+        "channelNum": 39,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "江蘇衛視",
+        "id": "jiangsu",
+        "name": "江苏卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.83:8000"
+          }
+        ]
+      },    
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "330000",
+        "channelId": "222",
+        "channelNum": 40,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "浙江衛視",
+        "id": "zhejiang",
+        "name": "浙江卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.84:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "350000",
+        "channelId": "223",
+        "channelNum": 41,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "東南衛視",
+        "id": "dongnan",
+        "name": "东南卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.105:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "370",
+        "adImgWidth": "-1",
+        "channelArea": "440000",
+        "channelId": "224",
+        "channelNum": 42,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "廣東衛視",
+        "id": "guangdong",
+        "name": "广东卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.90:8000"
+          }
+        ]
+      },  
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "440000",
+        "channelId": "225",
+        "channelNum": 43,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "深圳衛視",
+        "id": "shenzhen",
+        "name": "深圳卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.91:8000"
+          }
+        ]
+      },  
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "450000",
+        "channelId": "226",
+        "channelNum": 44,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "廣西衛視",
+        "id": "guangxi",
+        "name": "广西卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000368/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000368/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.197:8000"
+          }
+        ]
+      },   
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "530000",
+        "channelId": "227",
+        "channelNum": 45,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "雲南衛視",
+        "id": "yunnan",
+        "name": "云南卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000367/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000367/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.196:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "520000",
+        "channelId": "228",
+        "channelNum": 46,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "貴州衛視",
+        "id": "guizhou",
+        "name": "贵州卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000329/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.113:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "300",
+        "adImgWidth": "-1",
+        "channelArea": "510000",
+        "channelId": "229",
+        "channelNum": 47,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "四川衛視",
+        "id": "sichuan",
+        "name": "四川卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000348/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000348/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.180:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "650000",
+        "channelId": "230",
+        "channelNum": 48,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "新疆衛視",
+        "id": "xinjiang",
+        "name": "新疆卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000044/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000044/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.60:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "540000",
+        "channelId": "231",
+        "channelNum": 49,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "西藏衛視",
+        "id": "xizang",
+        "name": "西藏卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000045/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000045/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.56:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "460000",
+        "channelId": "232",
+        "channelNum": 50,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "海南衛視",
+        "id": "lvyou",
+        "name": "海南卫视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000347/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.179:8000"
+          }
+        ]
+      }
+    ],
+    "chineseName": "卫视频道",
+    "deviceCapacity": 0,
+    "englishName": "衛視頻道",
+    "id": 1320,
+    "identifier": "ws"
+  },
+  {
+    "channels": [
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "302",
+        "channelNum": 51,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "山东齐鲁",
+        "id": "sdql",
+        "name": "山东齐鲁",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.114:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "303",
+        "channelNum": 52,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "山东新闻",
+        "id": "sdgg",
+        "name": "山东新闻",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL10000314/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.23:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "304",
+        "channelNum": 53,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "山东体育休闲",
+        "id": "sdty",
+        "name": "山东体育休闲",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.22:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "305",
+        "channelNum": 54,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "山东生活",
+        "id": "sdsh",
+        "name": "山东生活",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.151:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "306",
+        "channelNum": 55,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "山东综艺",
+        "id": "sdzy",
+        "name": "山东综艺",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.159:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "307",
+        "channelNum": 56,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "山东少儿",
+        "id": "sdse",
+        "name": "山东少儿",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.25:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "308",
+        "channelNum": 57,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "山东文旅",
+        "id": "sdys",
+        "name": "山东文旅",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.160:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "309",
+        "channelNum": 58,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "山东农科",
+        "id": "sdnk",
+        "name": "山东农科",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.24:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "310",
+        "channelNum": 59,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "山东教育",
+        "id": "sdjy",
+        "name": "山东教育",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.59:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "311",
+        "channelNum": 60,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "泰安综合",
+        "id": "tatv1",
+        "name": "泰安综合",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "https://vod2023.tajn.cn/live/tahd01.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://zzbb.1545ts.com:8068/live/tatv0111.m3u8"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "312",
+        "channelNum": 61,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "泰安经济生活",
+        "id": "tatv2",
+        "name": "泰安经济生活",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "https://vod2023.tajn.cn/live/tahd02.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://zzbb.1545ts.com:8068/live/tatv222.m3u8"
+          }
+        ]
+      }
+    ],
+    "chineseName": "山东频道",
+    "deviceCapacity": 0,
+    "englishName": "山东頻道",
+    "id": 1322,
+    "identifier": "sd"
+  },
+  {
+    "channels": [
+       {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "401",
+        "channelNum": 62,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "凤凰中文",
+        "id": "fhzw",
+        "name": "凤凰中文",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+           {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://api.mytv666.top/api/hk.php?id=3635353536383939393264346132646363626433646461373332353365633339267469643d74762669643d3230"
+          }, 
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://api.mytv666.top/api/hkhk.php?id=6465653065613934326364336430636165653637343630386633623132626433267469643d77696e74763132332669643d32&auth=123"   
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://t.061899.xyz/tl/js/js.php?id=fhwszwt"   
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://104.233.200.52:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c" 
+          },   
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000380/index.m3u8" 
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "402",
+        "channelNum": 63,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "CGTN纪录",
+        "id": "cgtn",
+        "name": "CGTN纪录",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000353/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.188:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "403",
+        "channelNum": 64,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "求索纪录",
+        "id": "qsjl",
+        "name": "求索纪录",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000667/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.231:8000"
+          }
+        ]
+      },  
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "404",
+        "channelNum": 65,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "金鹰纪实",
+        "id": "jyjs",
+        "name": "金鹰纪实",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.103:8000"
+          }
+        ]
+      },  
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "405",
+        "channelNum": 66,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "纪实科教",
+        "id": "jskj",
+        "name": "纪实科教",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000332/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000332/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.165:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "406",
+        "channelNum": 67,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "中国教育1",
+        "id": "cetv1",
+        "name": "中国教育1",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.110:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "407",
+        "channelNum": 68,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "中国教育2",
+        "id": "cetv2",
+        "name": "中国教育2",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.107:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "408",
+        "channelNum": 69,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "中国教育4",
+        "id": "cetv4",
+        "name": "中国教育4",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.116:8000"
+          }
+        ]
+      },  
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "409",
+        "channelNum": 70,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "动漫秀场",
+        "id": "dmxc",
+        "name": "动漫秀场",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.115:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "410",
+        "channelNum": 71,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "卡酷少儿",
+        "id": "kkse",
+        "name": "卡酷少儿",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.66:8000"
+          }
+        ]
+      },          
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "411",
+        "channelNum": 72,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "金鹰卡通",
+        "id": "jykt",
+        "name": "金鹰卡通",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002027/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.117:8000"
+          }
+        ]
+      },  
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "412",
+        "channelNum": 73,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "快乐垂钓",
+        "id": "klcd",
+        "name": "快乐垂钓",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.144:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "413",
+        "channelNum": 74,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "茶频道",
+        "id": "cpd",
+        "name": "茶频道",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.143:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "414",
+        "channelNum": 75,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "先锋乒羽",
+        "id": "xfpy",
+        "name": "先锋乒羽",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000650/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000650/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.155:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "415",
+        "channelNum": 76,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "文物宝库",
+        "id": "wwbk",
+        "name": "文物宝库",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.141:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "416",
+        "channelNum": 77,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "梨园频道",
+        "id": "lypd",
+        "name": "梨园频道",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000656/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.139:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "417",
+        "channelNum": 78,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "武术世界",
+        "id": "wssj",
+        "name": "武术世界",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000657/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.140:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "418",
+        "channelNum": 79,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "海洋频道",
+        "id": "hypd",
+        "name": "海洋频道",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.67:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "419",
+        "channelNum": 80,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "汽摩频道",
+        "id": "qmpd",
+        "name": "汽摩频道",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000711/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.161:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "420",
+        "channelNum": 81,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "书画频道",
+        "id": "shpd",
+        "name": "书画频道",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000651/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000651/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.146:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "421",
+        "channelNum": 82,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "中华特产",
+        "id": "zhtc",
+        "name": "中华特产",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000642/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000642/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.76:8000"
+          }
+        ]
+      },  
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "422",
+        "channelNum": 83,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "环球旅游",
+        "id": "hqly",
+        "name": "环球旅游",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000643/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000643/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.71:8000"
+          }
+        ]
+      },  
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "423",
+        "channelNum": 84,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "乐游",
+        "id": "ly",
+        "name": "乐游",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00002016/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.97:8000"
+          }
+        ]
+      },   
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "424",
+        "channelNum": 85,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "东方财经",
+        "id": "dfcj",
+        "name": "东方财经",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00002025/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.94:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "425",
+        "channelNum": 86,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "财富天下",
+        "id": "cftx",
+        "name": "财富天下",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000607/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.147.:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "425",
+        "channelNum": 87,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "法治天地",
+        "id": "fztd",
+        "name": "法治天地",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00002010/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.96:8000"
+          }
+        ]
+      }, 
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "426",
+        "channelNum": 88,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "生活时尚",
+        "id": "shss",
+        "name": "生活时尚",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00002019/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.99:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "427",
+        "channelNum": 89,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "金色学堂",
+        "id": "jsxt",
+        "name": "金色学堂",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00002018/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.101:8000"
+          }
+        ]
+      }, 
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "428",
+        "channelNum": 90,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "劲爆体育",
+        "id": "jbty",
+        "name": "劲爆体育",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://39.134.144.6:8089/PLTV/88888888/224/3221226559/index.m3u8"
+          }
+        ]
+      }, 
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "429",
+        "channelNum": 91,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "生态环境",
+        "id": "sthj",
+        "name": "生态环境",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000671/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000671/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.119:8000"
+           }
+        ]
+      }, 
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "430",
+        "channelNum": 92,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "游戏风云",
+        "id": "yxfy",
+        "name": "游戏风云",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.95:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "431",
+        "channelNum": 93,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "都市剧场",
+        "id": "dsjc",
+        "name": "都市剧场",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00002022/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.98:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "432",
+        "channelNum": 94,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "精彩影视",
+        "id": "jcys",
+        "name": "精彩影视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.142:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "433",
+        "channelNum": 95,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "重温经典影视",
+        "id": "cwjdys",
+        "name": "重温经典影视",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://39.134.144.6:8089/PLTV/88888888/224/3221226398/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.81:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "434",
+        "channelNum": 96,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "家庭影院",
+        "id": "jtyy",
+        "name": "家庭影院",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00002028/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.152:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "435",
+        "channelNum": 97,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "影迷电影",
+        "id": "ymdy",
+        "name": "影迷电影",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00002029/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.154:8000"
+          }
+        ]
+      },
+      {
+        "adImg": "",
+        "adImgHeight": "0",
+        "adImgWidth": "0",
+        "channelArea": "",
+        "channelId": "436",
+        "channelNum": 98,
+        "channelType": 1,
+        "cornerImg": "",
+        "deviceCapacity": 0,
+        "englishName": "动作电影",
+        "id": "dzdy",
+        "name": "动作电影",
+        "posterUrl": "",
+        "privilegeChannelFlag": 0,
+        "streams": [
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://150.138.8.143/00/SNM/CHANNEL00002030/index.m3u8"
+          },
+          {
+            "definition": "高清",
+            "optimizeUrl": "",
+            "privilegeResourceFlag": 0,
+            "url": "http://27.193.97.96:22222/udp/239.253.254.153:8000"
+          }
+        ]
+      }
+    ],
+    "chineseName": "数字频道",
+    "deviceCapacity": 0,
+    "englishName": "数字頻道",
+    "id": 1324,
+    "identifier": "sz"
+  }
+]
